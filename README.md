@@ -2,9 +2,11 @@
 
 Uma aplicação web moderna para comparação de preços de produtos, construída com React, TypeScript e Vite.
 
+**LINK PARA A API:** https://github.com/MarcelFeo/PriceFlow
+
 ## 🎯 Sobre o Projeto
 
-PricePal é uma plataforma que permite aos usuários comparar preços de produtos de forma rápida e intuitiva. A aplicação oferece uma interface responsiva e amigável, facilitando a busca pelos melhores preços disponíveis no mercado.
+PriceFlow é uma plataforma que permite aos usuários comparar preços de produtos de forma rápida e intuitiva. A aplicação oferece uma interface responsiva e amigável, facilitando a busca pelos melhores preços disponíveis no mercado.
 
 ## 🛠️ Tecnologias Utilizadas
 
