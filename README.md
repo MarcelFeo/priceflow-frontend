@@ -1,4 +1,4 @@
-# PricePal - Plataforma de Comparação de Preços
+# PriceFlow - Plataforma de Comparação de Preços
 
 Uma aplicação web moderna para comparação de preços de produtos, construída com React, TypeScript e Vite.
 
